@@ -1,8 +1,8 @@
 FINAL PROJECT IN WEB DEVELOPMENT (BSIT 3-5)
 
-Title: PUP- OSS FORM : Application for New/Replacement of Identification Card
-Technologies: HTML, CSS, JavaScript, App Script
-Developers: Rhona Bonayog (Front End Developer)
+- Title: PUP- OSS FORM : Application for New/Replacement of Identification Card
+- Technologies: HTML, CSS, JavaScript, App Script
+- Developers: Rhona Bonayog (Front End Developer)
 	         Diane Libay (Full Stack Developer)
 	         Trizia Castillo (Back End Developer)
 
